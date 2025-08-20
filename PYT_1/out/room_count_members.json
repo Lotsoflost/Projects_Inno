@@ -1,0 +1,4002 @@
+[
+  {
+    "room_number": 631,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 438,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 699,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 544,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 368,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 927,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 920,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 346,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 932,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 26,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 613,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 107,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 963,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 81,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 502,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 730,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 791,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 786,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 996,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 860,
+    "student_cnt": 19
+  },
+  {
+    "room_number": 889,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 123,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 462,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 197,
+    "student_cnt": 19
+  },
+  {
+    "room_number": 183,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 66,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 662,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 60,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 101,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 381,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 387,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 701,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 573,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 320,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 25,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 851,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 386,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 102,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 843,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 898,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 864,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 46,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 283,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 977,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 128,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 657,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 327,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 830,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 873,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 655,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 576,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 90,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 269,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 490,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 929,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 217,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 880,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 422,
+    "student_cnt": 2
+  },
+  {
+    "room_number": 546,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 427,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 558,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 819,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 198,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 733,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 11,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 585,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 455,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 905,
+    "student_cnt": 19
+  },
+  {
+    "room_number": 530,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 529,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 917,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 156,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 136,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 366,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 22,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 287,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 208,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 520,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 948,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 231,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 744,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 456,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 618,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 62,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 836,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 18,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 237,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 236,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 264,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 35,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 45,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 140,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 748,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 841,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 292,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 685,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 627,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 369,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 302,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 135,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 96,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 838,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 3,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 670,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 69,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 325,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 579,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 890,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 144,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 892,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 492,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 809,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 276,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 246,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 284,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 286,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 510,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 608,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 954,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 527,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 139,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 872,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 168,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 106,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 165,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 406,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 428,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 308,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 471,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 110,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 829,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 443,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 99,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 545,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 86,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 521,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 351,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 303,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 940,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 609,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 93,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 825,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 195,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 522,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 153,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 215,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 192,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 270,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 373,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 412,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 477,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 624,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 256,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 955,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 430,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 552,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 48,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 141,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 52,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 907,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 600,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 632,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 813,
+    "student_cnt": 20
+  },
+  {
+    "room_number": 301,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 859,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 251,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 87,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 634,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 354,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 275,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 448,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 707,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 807,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 5,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 21,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 806,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 132,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 80,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 419,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 796,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 590,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 486,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 823,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 330,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 543,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 323,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 401,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 317,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 174,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 677,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 871,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 273,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 229,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 459,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 867,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 32,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 68,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 738,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 31,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 852,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 561,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 979,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 74,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 962,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 420,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 221,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 24,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 418,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 341,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 505,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 240,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 95,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 395,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 375,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 437,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 85,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 211,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 775,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 551,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 691,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 78,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 333,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 754,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 769,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 973,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 671,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 271,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 642,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 328,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 243,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 10,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 629,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 41,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 235,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 44,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 801,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 1,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 207,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 560,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 130,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 541,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 947,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 879,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 795,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 817,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 980,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 549,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 745,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 411,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 712,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 957,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 409,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 43,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 188,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 908,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 649,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 800,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 971,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 882,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 574,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 508,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 922,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 853,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 845,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 635,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 986,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 47,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 755,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 306,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 652,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 61,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 696,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 746,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 994,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 277,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 147,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 794,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 194,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 668,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 826,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 318,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 170,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 71,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 257,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 452,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 598,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 750,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 163,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 180,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 720,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 113,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 239,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 191,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 915,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 158,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 942,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 134,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 396,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 914,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 119,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 633,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 975,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 883,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 770,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 200,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 969,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 29,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 189,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 681,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 697,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 463,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 591,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 562,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 704,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 56,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 583,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 721,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 717,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 416,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 856,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 133,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 76,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 626,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 338,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 863,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 484,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 949,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 372,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 322,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 385,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 125,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 506,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 423,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 559,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 921,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 821,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 842,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 630,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 466,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 315,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 542,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 449,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 839,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 201,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 776,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 20,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 467,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 967,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 233,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 857,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 747,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 959,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 91,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 934,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 162,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 326,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 94,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 722,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 901,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 582,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 614,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 124,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 65,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 628,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 772,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 261,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 599,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 300,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 167,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 470,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 7,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 178,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 564,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 675,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 708,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 646,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 421,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 114,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 389,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 112,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 992,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 731,
+    "student_cnt": 19
+  },
+  {
+    "room_number": 363,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 854,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 802,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 824,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 182,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 771,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 242,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 814,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 736,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 185,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 225,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 936,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 924,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 881,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 674,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 290,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 371,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 476,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 17,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 548,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 414,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 272,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 925,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 686,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 432,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 345,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 866,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 937,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 661,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 316,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 724,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 951,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 51,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 281,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 723,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 97,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 245,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 620,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 556,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 305,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 63,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 295,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 445,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 177,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 861,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 329,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 619,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 393,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 248,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 394,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 429,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 398,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 805,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 335,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 444,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 461,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 12,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 891,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 597,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 129,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 431,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 491,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 982,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 417,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 729,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 844,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 88,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 533,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 913,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 572,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 815,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 405,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 391,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 426,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 79,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 465,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 594,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 131,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 250,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 587,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 939,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 570,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 847,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 869,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 472,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 732,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 169,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 534,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 58,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 67,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 265,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 930,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 751,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 831,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 402,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 660,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 622,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 340,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 651,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 735,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 884,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 347,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 309,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 865,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 514,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 336,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 321,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 858,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 703,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 953,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 205,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 581,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 693,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 554,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 874,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 828,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 804,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 518,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 803,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 728,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 483,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 946,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 384,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 656,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 304,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 360,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 70,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 833,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 637,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 274,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 152,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 247,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 379,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 473,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 586,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 993,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 528,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 267,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 566,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 479,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 16,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 734,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 146,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 625,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 213,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 672,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 234,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 324,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 380,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 580,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 875,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 683,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 676,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 531,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 447,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 822,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 933,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 931,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 382,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 103,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 497,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 577,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 526,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 525,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 460,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 713,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 8,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 896,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 997,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 687,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 440,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 151,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 442,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 766,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 408,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 938,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 294,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 227,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 719,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 216,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 204,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 503,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 339,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 392,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 960,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 298,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 53,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 496,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 923,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 159,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 610,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 513,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 512,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 810,
+    "student_cnt": 2
+  },
+  {
+    "room_number": 569,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 50,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 592,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 812,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 945,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 446,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 705,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 589,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 647,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 64,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 788,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 902,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 895,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 150,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 19,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 376,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 870,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 434,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 410,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 603,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 663,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 669,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 436,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 161,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 435,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 694,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 781,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 33,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 220,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 253,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 504,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 100,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 690,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 293,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 98,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 906,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 218,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 343,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 334,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 636,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 109,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 644,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 837,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 759,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 350,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 348,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 164,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 952,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 950,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 987,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 711,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 126,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 266,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 137,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 706,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 352,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 42,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 209,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 23,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 30,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 399,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 349,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 39,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 37,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 495,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 356,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 519,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 718,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 964,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 540,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 49,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 27,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 377,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 77,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 262,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 9,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 219,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 639,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 353,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 797,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 658,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 407,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 602,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 700,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 14,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 659,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 2,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 89,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 311,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 715,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 976,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 313,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 83,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 760,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 640,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 464,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 210,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 780,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 319,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 740,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 118,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 568,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 331,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 415,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 758,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 765,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 425,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 981,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 524,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 816,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 439,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 173,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 678,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 601,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 280,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 214,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 774,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 515,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 900,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 868,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 537,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 789,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 553,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 919,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 793,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 485,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 928,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 450,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 911,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 918,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 689,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 441,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 196,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 756,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 179,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 988,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 252,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 855,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 536,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 779,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 638,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 910,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 310,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 916,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 664,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 615,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 307,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 827,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 584,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 739,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 260,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 154,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 808,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 876,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 571,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 453,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 138,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 811,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 621,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 244,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 727,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 4,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 578,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 787,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 494,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 612,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 241,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 535,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 289,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 878,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 475,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 983,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 166,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 894,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 532,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 968,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 6,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 909,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 783,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 279,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 337,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 648,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 488,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 679,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 390,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 799,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 893,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 944,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 617,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 413,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 258,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 862,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 291,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 73,
+    "student_cnt": 20
+  },
+  {
+    "room_number": 469,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 998,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 148,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 458,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 835,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 357,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 850,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 175,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 359,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 752,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 299,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 643,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 143,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 186,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 259,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 904,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 970,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 688,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 753,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 104,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 199,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 454,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 212,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 593,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 886,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 493,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 172,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 55,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 792,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 278,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 818,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 105,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 254,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 958,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 773,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 761,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 762,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 539,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 203,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 314,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 367,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 840,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 383,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 187,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 288,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 84,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 160,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 641,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 122,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 501,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 75,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 404,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 500,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 684,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 121,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 149,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 36,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 565,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 673,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 645,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 263,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 650,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 984,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 344,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 296,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 282,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 666,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 702,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 38,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 365,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 595,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 388,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 232,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 0,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 433,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 202,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 358,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 716,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 926,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 361,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 92,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 268,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 757,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 538,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 57,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 849,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 468,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 785,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 509,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 725,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 742,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 332,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 778,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 547,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 623,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 714,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 555,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 238,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 115,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 499,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 885,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 400,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 481,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 682,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 478,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 606,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 517,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 511,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 226,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 588,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 176,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 680,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 726,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 362,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 222,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 616,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 692,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 605,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 999,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 230,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 737,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 972,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 397,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 743,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 899,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 943,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 451,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 190,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 249,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 832,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 120,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 653,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 567,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 255,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 709,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 607,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 768,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 978,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 834,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 782,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 111,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 72,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 108,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 364,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 846,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 142,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 989,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 370,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 877,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 965,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 516,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 355,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 961,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 912,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 117,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 764,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 523,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 206,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 784,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 848,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 820,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 342,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 127,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 507,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 777,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 667,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 54,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 767,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 34,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 990,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 224,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 698,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 596,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 941,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 995,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 15,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 887,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 897,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 563,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 297,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 374,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 28,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 956,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 184,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 749,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 116,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 145,
+    "student_cnt": 16
+  },
+  {
+    "room_number": 611,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 798,
+    "student_cnt": 5
+  },
+  {
+    "room_number": 550,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 985,
+    "student_cnt": 3
+  },
+  {
+    "room_number": 654,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 604,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 285,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 82,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 790,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 741,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 974,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 575,
+    "student_cnt": 12
+  },
+  {
+    "room_number": 695,
+    "student_cnt": 15
+  },
+  {
+    "room_number": 228,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 171,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 157,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 991,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 498,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 403,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 59,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 378,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 482,
+    "student_cnt": 0
+  },
+  {
+    "room_number": 487,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 903,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 935,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 665,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 223,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 424,
+    "student_cnt": 8
+  },
+  {
+    "room_number": 966,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 155,
+    "student_cnt": 18
+  },
+  {
+    "room_number": 474,
+    "student_cnt": 9
+  },
+  {
+    "room_number": 480,
+    "student_cnt": 6
+  },
+  {
+    "room_number": 489,
+    "student_cnt": 17
+  },
+  {
+    "room_number": 181,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 40,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 457,
+    "student_cnt": 13
+  },
+  {
+    "room_number": 312,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 763,
+    "student_cnt": 7
+  },
+  {
+    "room_number": 193,
+    "student_cnt": 11
+  },
+  {
+    "room_number": 13,
+    "student_cnt": 10
+  },
+  {
+    "room_number": 557,
+    "student_cnt": 14
+  },
+  {
+    "room_number": 710,
+    "student_cnt": 4
+  },
+  {
+    "room_number": 888,
+    "student_cnt": 11
+  }
+]
