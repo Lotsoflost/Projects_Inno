@@ -6,12 +6,9 @@ from pathlib import Path
 from typing import Union, List, Dict, Optional
 
 
-# room = {"id": 1, "name": "Room #1"}
-
-
 def load_json_list(path: Union[str, Path]) -> List[Dict]:
     p = Path(path)
-    with p.open("r", encoding= 'utf-8') as f:
+    with p.open("r", encoding='utf-8') as f:
         data = json.load(f)
         return data if isinstance(data, list) else [data]
 
@@ -60,12 +57,12 @@ def insert_student_bulk(rows: List[Dict]) -> int:
     values = [[r[c] for c in cols] for r in rows]
     sql = (
         "INSERT INTO base_schema.students (birthday, id, name, room, sex) VALUES %s "
-        "ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name"  
+        "ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name"
     )
     conn = connector()
     cur = conn.cursor()
     try:
-        execute_values (cur, sql, values, template="(%s, %s, %s, %s, %s)")
+        execute_values(cur, sql, values, template="(%s, %s, %s, %s, %s)")
         conn.commit()
         return len(values)
     finally:
@@ -103,7 +100,7 @@ def run_query_dict(sql: str) -> List[Dict]:
 
 
 def to_json(rows: List[Dict], pretty: bool = True) -> str:
-    return json.dumps(rows, ensure_ascii =False, indent = 2 if pretty else None, default=str)
+    return json.dumps(rows, ensure_ascii=False, indent=2 if pretty else None, default=str)
 
 
 def to_xml(rows: List[Dict], root_tag="rows", item_tag="row") -> str:
@@ -113,14 +110,14 @@ def to_xml(rows: List[Dict], root_tag="rows", item_tag="row") -> str:
         for k, v in r.items():
             el = ET.SubElement(item, k)
             el.text = "" if v is None else str(v)
-    return ET.tostring(root, encoding="utf-8", xml_declaration=True).decode("utf-8")        
+    return ET.tostring(root, encoding="utf-8", xml_declaration=True).decode("utf-8")
 
 
 def export_query(sql: str,
                  fmt: str = "json",
-                 outfile: Optional[Union[str,Path]] = None) -> str:
+                 outfile: Optional[Union[str, Path]] = None) -> str:
     if fmt not in ("json", "xml"):
-            raise ValueError("Format should be either 'json' or 'xml'")
+        raise ValueError("Format should be either 'json' or 'xml'")
 
     rows = run_query_dict(sql)
     data = to_json(rows) if fmt == "json" else to_xml(rows)
@@ -131,7 +128,8 @@ def export_query(sql: str,
         p.write_text(data, encoding="utf-8")
     return data
 
- # Number of students in each room
+
+# Number of students in each room
 if __name__ == "__main__":
     sql = """
         SELECT
@@ -143,11 +141,12 @@ if __name__ == "__main__":
         GROUP BY s.room, r.id;
          """
 
-    # print(export_query(sql, fmt="json", outfile="out/room_count_members.json"))
+    print(export_query(sql, fmt="json", outfile="out/room_count_members.json"))
 
-    print(export_query(sql, fmt="xml", outfile="out/room_count_members.xml"))
+    # print(export_query(sql, fmt="xml", outfile="out/room_count_members.xml"))
 
-    # Average age for each room (top 5, youngest rooms)
+
+# Average age for each room (top 5, youngest rooms)
 if __name__ == "__main__":
     sql = """
          WITH cte_student_ages_in_days AS (
@@ -173,11 +172,12 @@ if __name__ == "__main__":
             LIMIT 5;
          """
 
-    # print(export_query(sql, fmt="json", outfile="out/room_avg_age.json"))
+    print(export_query(sql, fmt="json", outfile="out/room_avg_age.json"))
 
-    print(export_query(sql, fmt="xml", outfile="out/room_avg_age.xml"))
+    # print(export_query(sql, fmt="xml", outfile="out/room_avg_age.xml"))
 
-    # Minimal age difference within the room (top 5, largest differences)
+
+# Minimal age difference within the room (top 5, largest differences)
 if __name__ == "__main__":
     sql = """
          WITH cte_age_diff AS (
@@ -197,11 +197,12 @@ if __name__ == "__main__":
             LIMIT 5;
          """
 
-    # print(export_query(sql, fmt="json", outfile="out/room_max_age_diff.json"))
+    print(export_query(sql, fmt="json", outfile="out/room_max_age_diff.json"))
 
-    print(export_query(sql, fmt="xml", outfile="out/room_max_age_diff.xml"))
+    # print(export_query(sql, fmt="xml", outfile="out/room_max_age_diff.xml"))
 
-    # Mixed gender rooms
+
+# Mixed gender rooms
 if __name__ == "__main__":
     sql = """
         SELECT
@@ -212,6 +213,6 @@ if __name__ == "__main__":
         HAVING COUNT(DISTINCT sex) = 2;
          """
 
-    # print(export_query(sql, fmt="json", outfile="out/room_genders.json"))
+    print(export_query(sql, fmt="json", outfile="out/room_genders.json"))
 
-    print(export_query(sql, fmt="xml", outfile="out/room_genders.xml"))
+    # print(export_query(sql, fmt="xml", outfile="out/room_genders.xml"))

@@ -3,9 +3,9 @@ import psycopg2
 
 def connector():
     conn = psycopg2.connect(
-        dbname="postgres",
+        dbname="NewDB",
         user="postgres",
-        password="admin",
+        password="Geirby12",
         host="localhost",
         port="5432"
     )
